@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*Beginning Elastic Stack*](http://www.apress.com/9781484216934) by Sharma, Vishal (Apress, 2016).
+This repository accompanies [*Beginning Elastic Stack*](http://www.apress.com/9781484216934) by Vishal Sharma (Apress, 2016).
 
 ![Cover image](9781484216934.jpg)
 

@@ -1,6 +1,6 @@
 Freeware License, some rights reserved
 
-Copyright (c) 2016 Sharma, Vishal
+Copyright (c) 2016 Vishal Sharma
 
 Permission is hereby granted, free of charge, to anyone obtaining a copy 
 of this software and associated documentation files (the "Software"), 
